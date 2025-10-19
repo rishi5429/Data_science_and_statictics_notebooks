@@ -22,10 +22,10 @@ This repository contains all the Jupyter Notebook experiments I completed while 
 
 These datasets are used across different experiments:
 
-* `diabetes.xlsx`  
-* `titanic.xlsx`  
-* `Salary_Data.xlsx`  
-* `framingham.xlsx`
+* `diabetes.csv`  
+* `titanic.csb`  
+* `Salary_Data.csv`  
+* `framingham.csv`
 
 ---
 
