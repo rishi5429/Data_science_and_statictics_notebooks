@@ -41,7 +41,7 @@ These datasets are used across different experiments:
 
 ---
 
-## 🧪 List of Practicals
+## List of Practicals
 
 Here are the notebooks included in this repository:
 
